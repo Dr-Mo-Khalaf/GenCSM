@@ -1,0 +1,13 @@
+[project]
+name = "gencsm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chroma-migrate>=0.0.7",
+    "chromadb>=1.5.2",
+    "dotenv>=0.9.9",
+    "huggingface-hub>=1.5.0",
+    "trustguard>=0.2.4",
+]
