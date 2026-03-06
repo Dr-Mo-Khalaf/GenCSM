@@ -17,7 +17,7 @@
 
 **GenCSM** is an **AI-powered Customer Service Management Assistant** designed to deliver **secure, intelligent, and context-aware responses**.
 
-The system combines **Large Language Models (LLMs)**, **vector memory**, and **AI safety guardrails** to create a reliable conversational assistant.
+The system combines **Large Language Models (LLMs)**, **vector memory**, and **AI safety trustguard** to create a reliable conversational assistant.
 
 GenCSM focuses on:
 
